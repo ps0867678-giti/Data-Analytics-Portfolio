@@ -49,6 +49,3 @@ Import this file into MySQL to recreate the Loan table with 20 rows.
  👨‍💻 Author
 **PRAVEEN SINGH** 
 Skills: SQL | Python | Excel | Power BI
- 👨‍💻 Author
-**PRAVEEN SINGH** 
-Skills: SQL | Python | Excel | Power BI
